@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: django-rest-framework-serialization-spec
+Version: 0.0.7
+Summary: Specify API endpoint data shape declaratively in a DRF view
+Home-page: https://www.dabapps.com
+Author: DabApps
+Author-email: engineering@dabapps.com
+License: BSD
+Download-URL: https://github.com/dabapps/django-rest-framework-serialization-spec/archive/v0.5-beta.tar.gz
+Platform: UNKNOWN
+Requires-Dist: Django (>=1.11)
+Requires-Dist: djangorestframework (>=3.5.3)
+Requires-Dist: django-zen-queries (>=1.0.0)
+
+Specify API endpoint data shape declaratively in a DRF view
+
+
